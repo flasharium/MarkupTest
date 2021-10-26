@@ -1,0 +1,11 @@
+﻿{
+  "settingsWindowHeader": ["Настройки","Settings"],
+  "nickNameHeader": ["Никнейм","Nickname"],
+  "nickNameDescription": ["Вы можете изменить имя в любое время.","You can change the name at any time. "],
+  "sound": ["Звук","Sound"],
+  "languageHeader": ["Язык","Language"],
+  "socialHeader": ["Мы в соцсетях","We are in socials"],
+  "VKSocialButton": ["Подписаться","Subscribe"],
+  "discordSocialButton": ["Подписаться","Subscribe"],
+  "supportButton": ["Поддержка","Support"]
+}
